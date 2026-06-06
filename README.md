@@ -75,7 +75,7 @@ const mithulVarshan = {
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark"/>
 </p>
 
 ### Backend & Databases

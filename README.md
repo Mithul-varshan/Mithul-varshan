@@ -1,30 +1,150 @@
-<h1>Hi 👋,  I'm Mithul</h1>
-<p>A passionate FullStack developer</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<!-- <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a> -->
-<a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p>
-  <a target="_blank" href="https://www.linkedin.com/in/Mithul varshan" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=MITHUL%20VARSHAN&fontSize=80&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=20&descAlignY=65&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>💻 Full Stack Engineer | CSE'28 | Building the Future, One Commit at a Time 🚀</h3>
+  <p>
+    <em>
+      Crafting scalable, user-centric applications with modern tech stacks.<br/>
+      Passionate about clean code, robust APIs, and high-performance digital solutions.<br/>
+      Transforming ideas into reality through hands-on experience and innovation.
+    </em>
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=MERN+Stack+%7C+React.js+%7C+JavaScript;Full+Stack+Developer;REST+APIs+%7C+Microservices+%7C+Cloud;150%2B+LeetCode+Problems+Solved;1.2K%2B+GitHub+Commits" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mithul-varshan&color=00D9FF&style=for-the-badge&label=VISITORS" alt="Profile Views"/>
+  <a href="https://github.com/Mithul-varshan?tab=followers"><img src="https://img.shields.io/github/followers/Mithul-varshan?label=FOLLOWERS&style=for-the-badge&color=667eea&logo=github" alt="GitHub Followers"/></a>
+  <a href="https://github.com/Mithul-varshan"><img src="https://img.shields.io/github/stars/Mithul-varshan?affiliations=OWNER&style=for-the-badge&color=FFD700&logo=github" alt="GitHub Stars"/></a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mithul-varshan&show_icons=true&locale=en" alt="Mithul-varshan" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mithul-varshan&" alt="Mithul-varshan" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mithul-varshan&show_icons=true&locale=en&layout=compact" alt="Mithul-varshan" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mithul-varshan" alt="Mithul-varshan" /></a></p>
 
+---
 
+## 👤 About Me
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mithul-varshan/Mithul-varshan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mithul-varshan/Mithul-varshan/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Mithul-varshan/Mithul-varshan/output/github-snake.svg" />
-</picture> -->
+<img align="right" alt="Coding Animation" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+<div style="margin-top: 30px;">
+
+```javascript
+const mithulVarshan = {
+  role: "Full Stack Developer",
+  education: "B.E. Computer Science Engineering (2028)",
+  institution: "Bannari Amman Institute of Technology",
+  cgpa: 8.02,
+  location: "India 🇮🇳",
+
+  currentFocus: [
+    "SaaS Platform Development",
+    "React.js, JavaScript & Full-Stack Architecture",
+    "Backend Development (Node.js, Express, JWT, OAuth)",
+    "RESTful API Design & Integration",
+    "Database Design (PostgreSQL), Docker",
+    "Scalable System Design"
+  ],
+
+  languages: ["Java", "JavaScript", "Python", "C"],
+
+  motto: "Code. Create. Innovate. Repeat."
+};
+```
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,python,c&theme=dark"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind&theme=dark"/>
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql&theme=dark"/>
+</p>
+
+### Tools & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,postman,figma,vscode&theme=dark"/>
+</p>
+
+<details>
+<summary><b>📦 Full Tech Stack Breakdown</b></summary>
+<br/>
+
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS, Material-UI, Zustand |
+| **Backend** | Node.js, Express.js, REST APIs, JWT, Middleware, Microservices |
+| **Databases** | MySQL, PostgreSQL |
+| **Cloud & Infra** | Vercel, Onrender |
+| **Languages** | JavaScript, Java, Python, C |
+| **Dev Tools** | VS Code, Git, GitHub, Postman, Figma |
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mithul-varshan&theme=radical" height="175"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mithul-varshan&theme=radical" height="175"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mithul-varshan&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FFD700&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF" height="175"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+| 🎯 | Highlight |
+|:--|:---------|
+| 🔢 | Solved **150+ problems** on LeetCode - strong DSA fundamentals |
+| 💻 | **1.2K+ commits** across projects and internships on GitHub |
+| 📜 | **NPTEL Python Certification** - 95% score |
+| 🥈 | **Runner-up at SNS Ideathon** |
+| 🥈 | **Runner-up at Prince Intellecthon** |
+| 🥇 | **Winner at BIT Hackathon** |
+| 🏅 | **Shortlisted for SIH 2025** at intra-college level |
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://mithulvarshansk.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithulvarshan/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithul0605@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mithul-varshan)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1stvGvgAo7_oVbS-lN7gfMN8F03Pgq1l2/view?usp=drive_link)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%"/>
+</div>

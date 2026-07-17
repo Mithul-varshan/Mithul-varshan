@@ -141,7 +141,7 @@ const mithulVarshan = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithulvarshan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithul0605@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mithul-varshan)
-[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1stvGvgAo7_oVbS-lN7gfMN8F03Pgq1l2/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1GpW9vYp4yxRX8ZXoZBDpGTbBfUYOC0w9/view?usp=sharing)
 
 </div>
 

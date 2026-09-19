@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=MERN+Stack+%7C+React.js+%7C+JavaScript;Full+Stack+Developer;REST+APIs+%7C+Microservices+%7C+Cloud;150%2B+LeetCode+Problems+Solved;1.2K%2B+GitHub+Commits" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=MERN+Stack+%7C+React.js+%7C+JavaScript;Full+Stack+Developer;REST+APIs+%7C+Microservices+%7C+Cloud;250%2B+LeetCode+Problems+Solved;1.2K%2B+GitHub+Commits" alt="Typing SVG" />
   </a>
 </div>
 
@@ -123,7 +123,7 @@ const mithulVarshan = {
 
 | 🎯 | Highlight |
 |:--|:---------|
-| 🔢 | Solved **150+ problems** on LeetCode - strong DSA fundamentals |
+| 🔢 | Solved **250+ problems** on LeetCode - strong DSA fundamentals |
 | 💻 | **1.2K+ commits** across projects and internships on GitHub |
 | 📜 | **NPTEL Python Certification** - 95% score |
 | 🥈 | **Runner-up at SNS Ideathon** |
